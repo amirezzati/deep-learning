@@ -3,7 +3,7 @@ Sharif University of Technology - Spring 2024
 Deep learning course contents           
 Instructor: Dr. M Soleymani       
 
-The course 'Deep learning (in Persian)' was offered at Computer Engineering Department of Sharif University of Technology, instructed by Dr. M Soleymani in the Winter 2024 semester.           
+The course 'Deep learning (in Persian)' was offered at Computer Engineering Department of Sharif University of Technology, instructed by Dr. M Soleymani in the Spring 2024 semester.           
 
 ![ai-article-pic8](https://github.com/amirezzati/deep-learning/assets/62298323/5e77799e-83c4-4bfa-aee4-fb026279b525)         
 
